@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfc34be0-380d-4de1-963b-88ef76bde4c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Balloon-Border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bd1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulb.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bulb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulb_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bulb_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulb_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bulb_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulb_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bulb_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulb_pink.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bulb_pink.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulb_red.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bulb_red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulb_yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bulb_yellow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cake128.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/cake128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/effect.js" beforeDir="false" afterPath="$PROJECT_DIR$/effect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uggreen.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/uggreen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vine.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vine.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2rJJOdIGZ1T73qJEvV2pbfESCWJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Josef Kuliah/tempat download kuliah/Lady/test/birthday",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Josef Kuliah\tempat download kuliah\Lady\test\birthday\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfc34be0-380d-4de1-963b-88ef76bde4c8" name="Changes" comment="" />
+      <created>1736271213758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736271213758</updated>
+      <workItem from="1736271214870" duration="153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

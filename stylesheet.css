@@ -1107,13 +1107,13 @@ audio {
 @media(max-width: 480px){
 	.title {
 		left: 20%;
-		bottom: 46%;
+		bottom: 48%;
 	}
 }
 @media(max-width: 360px){
 	.title {
 		left: 17%;
-		bottom: 45%;
+		bottom: 47%;
 	}
 }
 /* .balloons {

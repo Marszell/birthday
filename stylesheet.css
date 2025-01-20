@@ -1075,22 +1075,17 @@ audio {
 	}
 }
 
-/* edited */
 .title {
 	position: fixed;
 	bottom: 46%;
-	/* bottom: 300px; */
-	/* left: 59rem; */
 	left: 42%;
 	opacity: 0.6;
 	z-index: 99;
-	/* width: 100px; */
 	height: 183px;
 	background-repeat: no-repeat no-repeat;
 	background-size: 100px 183px;
 }
 .title span {
-	/* text-transform: uppercase; */
 	font-family: 'Signika', sans-serif;
 	font-size: 50px;
 	color: #BF4136;
@@ -1116,24 +1111,7 @@ audio {
 		bottom: 47%;
 	}
 }
-/* .balloons {
-	position: fixed;
-	bottom: -200px;
-	opacity: 0.6;
-	z-index: 99;
-	width: 100px;
-	height: 183px;
-	background-repeat: no-repeat no-repeat;
-	background-size: 100px 183px;
-}
-.balloons h2 {
-	text-transform: uppercase;
-	font-family: 'Signika', sans-serif;
-	font-size: 50px;
-	color: #BF4136;
-	text-shadow: 5px 5px 5px #FFF;
-	display: none;
-} */
+
 #b1,#b11 {
 	background-image: url('b1.png');
 }

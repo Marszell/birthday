@@ -1107,7 +1107,7 @@ audio {
 @media(max-width: 480px){
 	.title {
 		left: 20%;
-		bottom: 40%;
+		bottom: 45%;
 	}
 }
 @media(max-width: 360px){

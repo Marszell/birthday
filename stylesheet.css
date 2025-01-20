@@ -1100,20 +1100,20 @@ audio {
 @media(max-width:768px){
 	.title {
 		left:35%;
-		bottom:35%;
+		bottom:40%;
 	}
 }
 
 @media(max-width: 480px){
 	.title {
 		left: 20%;
-		bottom: 45%;
+		bottom: 46%;
 	}
 }
 @media(max-width: 360px){
 	.title {
 		left: 17%;
-		bottom: 43%;
+		bottom: 45%;
 	}
 }
 /* .balloons {
